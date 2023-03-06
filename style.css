@@ -14,7 +14,6 @@
     flex-wrap: wrap;
 }
 .music-player{
-    background: #ffe0e5;
     width: 400px;
     padding: 25px 35px;
     text-align: center;
@@ -40,8 +39,8 @@ nav .circle{
 .song-img{
     width: 159px;
     border-radius: 50%;
-    border: 8px solid #fff;
-    box-shadow: 0 10px 60px rgba(255, 26, 26, 0.22);
+    border: 3px solid #ffffff;
+    box-shadow: 0 10px 30px rgb(255, 255, 255);
 }
 .music-player h1{
     font-size: 20px;
