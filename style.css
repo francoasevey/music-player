@@ -41,7 +41,7 @@ nav .circle:hover{
     text-shadow:  rgb(255, 255, 255) 0 0.0em 0.40em;
 }
 .song-img{
-    width: 155px;
+    width: 140px;
     border-radius: 50%;
     border: 3px solid #ffffff;
     box-shadow: 0 10px 30px rgb(255, 255, 255);
@@ -52,12 +52,14 @@ nav .circle:hover{
     color: #ffffff;
     margin-top: 20px;
     text-shadow:  rgb(0, 0, 0) 0 0.0em 0.80em;
+    font-family: 'Rampart One', cursive;
 }
 .music-player p{
     font-size: 20px;
-    font-weight: 600;
+    font-weight: 400;
     color: #ffffff;
     text-shadow:  rgb(0, 0, 0) 0 0.0em 0.80em;
+    font-family: 'Anton', sans-serif;
 }
 #progress{
     -webkit-appearance: none;
